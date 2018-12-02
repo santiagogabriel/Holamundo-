@@ -9,7 +9,7 @@ if(isset($_SESSION['session']))
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>espiritu</title>
+	<title>bau</title>
 	<meta charset="utf-8">
 	<link type="text/css" href="./css/style.css" rel="stylesheet" />
 </head>
@@ -17,7 +17,7 @@ if(isset($_SESSION['session']))
 <body>
 	
 	<div id="registrar">
-          	<a href="./php/registro.php"</a>registro anahi</a>
+          	<a href="./php/registro.php"</a>registro 536</a>
     </div> <!-- fin opcion-->
     
 	<div id="envoltura">
