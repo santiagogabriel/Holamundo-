@@ -32,7 +32,7 @@ if(isset($_SESSION['session']))
 					<!--A saber, el atributo for funciona como el id.-->
 					<!--ejemplo <label for="usuario">Usuario:</label>-->
 					<!--required es nuevo en html5, si el campo está vacío te avisa, pero cuidado, no valida la información-->
-					<p><label > Usuario espiritu:</label></p>
+					<p><label > Usuario bautista:</label></p>
 						<input name="usuario" type="text" id="usuario" placeholder="Ingresa Usuario" autofocus="" required=""></p>
 					
 					<p><label>contra tule.:</label></p>
