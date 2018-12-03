@@ -40,7 +40,7 @@ if(isset($_SESSION['session']))
 
 					<p><label>Contraseña de cobao</label></p>
 
-					<p><label>contra tule.:</label></p>
+					<p><label>contra el poder.:</label></p>
 
 
 						<input name="contrasenia" type="password" id="contrasenia" placeholder="Ingresa Password" required=""></p>
