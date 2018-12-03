@@ -38,7 +38,7 @@ if(isset($_SESSION['session']))
 					<p><label>Contraseña de flavio:</label></p>
 
 
-					<p><label>Contraseña de lourdes</label></p>
+					<p><label>Contraseña de cobao</label></p>
 
 					<p><label>contra tule.:</label></p>
 
