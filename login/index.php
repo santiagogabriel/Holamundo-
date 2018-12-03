@@ -17,7 +17,7 @@ if(isset($_SESSION['session']))
 <body>
 	
 	<div id="registrar">
-          	<a href="./php/registro.php"</a>trabajo en equipo</a>
+          	<a href="./php/registro.php"</a>Registrar</a>
     </div> <!-- fin opcion-->
     
 	<div id="envoltura">
@@ -35,7 +35,7 @@ if(isset($_SESSION['session']))
 					<p><label >escribe tu nombre de Usuario:</label></p>
 						<input name="usuario" type="text" id="usuario" placeholder="Ingresa Usuario" autofocus="" required=""></p>
 					
-					<p><label>Contraseña:</label></p>
+					<p><label>Contraseña de flavio:</label></p>
 						<input name="contrasenia" type="password" id="contrasenia" placeholder="Ingresa Password" required=""></p>
 					
 					<p id="bot"><input type="submit" id="submit" name="submit" value="Ingresar" class="boton"></p>
