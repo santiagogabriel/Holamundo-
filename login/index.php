@@ -9,7 +9,7 @@ if(isset($_SESSION['session']))
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>SISTEMAS DE INFORMACION</title>
+	<title>lourdes</title>
 	<meta charset="utf-8">
 	<link type="text/css" href="./css/style.css" rel="stylesheet" />
 </head>
@@ -17,7 +17,7 @@ if(isset($_SESSION['session']))
 <body>
 	
 	<div id="registrar">
-          	<a href="./php/registro.php"</a>Registrar</a>
+          	<a href="./php/registro.php"</a>registro ana</a>
     </div> <!-- fin opcion-->
     
 	<div id="envoltura">
@@ -32,17 +32,24 @@ if(isset($_SESSION['session']))
 					<!--A saber, el atributo for funciona como el id.-->
 					<!--ejemplo <label for="usuario">Usuario:</label>-->
 					<!--required es nuevo en html5, si el campo está vacío te avisa, pero cuidado, no valida la información-->
-					<p><label >escribe tu nombre de Usuario:</label></p>
+					<p><label > Usuario bautista:</label></p>
 						<input name="usuario" type="text" id="usuario" placeholder="Ingresa Usuario" autofocus="" required=""></p>
 					
 					<p><label>Contraseña de flavio:</label></p>
+
+
+					<p><label>Contraseña de lourdes</label></p>
+
+					<p><label>contra tule.:</label></p>
+
+
 						<input name="contrasenia" type="password" id="contrasenia" placeholder="Ingresa Password" required=""></p>
 					
 					<p id="bot"><input type="submit" id="submit" name="submit" value="Ingresar" class="boton"></p>
 				</form>
 			</div><!--fin cuerpo-->
 	
-			<div id="pie">INFTEC</div>
+			<div id="pie">informacion</div>
 		</div><!-- fin contenedor -->
 
 	</div><!--fin envoltura-->
