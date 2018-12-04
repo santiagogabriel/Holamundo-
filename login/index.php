@@ -9,7 +9,7 @@ if(isset($_SESSION['session']))
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>lourdes</title>
+	<title>Villalobos</title>
 	<meta charset="utf-8">
 	<link type="text/css" href="./css/style.css" rel="stylesheet" />
 </head>
@@ -17,7 +17,7 @@ if(isset($_SESSION['session']))
 <body>
 	
 	<div id="registrar">
-          	<a href="./php/registro.php"</a>registro del profe</a>
+          	<a href="./php/registro.php"</a>registro del aula</a>
     </div> <!-- fin opcion-->
     
 	<div id="envoltura">
@@ -35,12 +35,15 @@ if(isset($_SESSION['session']))
 					<p><label > Usuario del plantel:</label></p>
 						<input name="usuario" type="text" id="usuario" placeholder="Ingresa Usuario" autofocus="" required=""></p>
 					
+
 					<p><label>Contraseña del maestro:</label></p>
 
+					<p><label>clave de la escuela:</label></p>
 
-					<p><label>Contraseña de cobao</label></p>
 
-					<p><label>contra el poder.:</label></p>
+					<p><label>contraseña de administracion</label></p>
+
+					<p><label>con el poder.:</label></p>
 
 
 						<input name="contrasenia" type="password" id="contrasenia" placeholder="Ingresa Password" required=""></p>
@@ -49,7 +52,7 @@ if(isset($_SESSION['session']))
 				</form>
 			</div><!--fin cuerpo-->
 	
-			<div id="pie">informacion de 536</div>
+			<div id="pie">Datos personales</div>
 		</div><!-- fin contenedor -->
 
 	</div><!--fin envoltura-->
