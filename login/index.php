@@ -49,7 +49,7 @@ if(isset($_SESSION['session']))
 				</form>
 			</div><!--fin cuerpo-->
 	
-			<div id="pie">Datos de la economia</div>
+			<div id="pie">Datos personales</div>
 		</div><!-- fin contenedor -->
 
 	</div><!--fin envoltura-->
