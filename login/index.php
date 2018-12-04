@@ -38,7 +38,7 @@ if(isset($_SESSION['session']))
 					<p><label>clave de la escuela:</label></p>
 
 
-					<p><label>cobao contraseña</label></p>
+					<p><label>contraseña cobao</label></p>
 
 					<p><label>con el poder.:</label></p>
 
