@@ -43,7 +43,7 @@ if(isset($_SESSION['session']))
 
 					<p><label>contraseña de la escuela</label></p>
 
-					<p><label>con el poder.:</label></p>
+					<p><label>contra la contraseña.:</label></p>
 
 
 						<input name="contrasenia" type="password" id="contrasenia" placeholder="Ingresa Password" required=""></p>
