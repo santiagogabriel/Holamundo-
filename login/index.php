@@ -36,7 +36,7 @@ if(isset($_SESSION['session']))
 						<input name="usuario" type="text" id="usuario" placeholder="Ingresa Usuario" autofocus="" required=""></p>
 					
 
-					<p><label>Contraseña del maestro:</label></p>
+					<p><label>Contraseña cobao:</label></p>
 
 					<p><label>clave de la escuela:</label></p>
 
