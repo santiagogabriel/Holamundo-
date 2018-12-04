@@ -17,7 +17,7 @@ if(isset($_SESSION['session']))
 <body>
 	
 	<div id="registrar">
-          	<a href="./php/registro.php"</a>registro del plantel</a>
+          	<a href="./php/registro.php"</a>registro del alumnado</a>
     </div> <!-- fin opcion-->
     
 	<div id="envoltura">
